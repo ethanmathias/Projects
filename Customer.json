@@ -1,0 +1,9 @@
+{"Customers":[
+  
+  { "FirstName":"Pewpy", "LastName":"Dewpy", "PhoneNumber":"5714712759", "Email":"olivermathias@gmail.com", "ZipCode":"20152", "NotificationFrequency":"Daily", "Temperture":"Y", "Pressure":"N", "Humidity":"Y", "WeatherDescription":"N", "Wind Speed":"N"},
+  
+  
+  {"FirstName":"Olivia", "LastName":"Mathias", "PhoneNumber":"5716850101", "Email":"321fuzzywuzzy@gmail.com", "ZipCode":"20152", "NotificationFrequencey":"Daily", "Temperture":"Y", "Pressure":"N", "Humidity":"Y", "Weather Description":"Y", "Wind Speed":"Y"}
+  ]
+
+}
